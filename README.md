@@ -27,14 +27,14 @@ If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
 
 **Cloud Platforms:** GCP, Azure, AWS  
 **Infrastructure as Code:** Terraform, SaltStack, ARM Templates  
-**DevOps & CI/CD:** Docker, Jenkins, GitHub Actions, GitLab Runners, GKE, SonarQube  
+**DevOps & CI/CD:** Docker, Jenkins, GitHub Actions, GitLab Runners, Kubernetes, SonarQube  
 **ETL Tools:** Airflow, Informatica, NiFi, Rundeck, BigQuery  
 **Databases:** MySQL, Hive, MongoDB, Redis  
 **Programming:** Java (Spring Boot), Python (Flask), Bash, PowerShell  
 **Security:** IAM, RLS, CLS, SSL  
 **Monitoring:** Dynatrace, Grafana  
 **Virtualization:** VirtualBox  
-**Data Analytics:** MapReduce, NLP  
+**Data Analytics:** MapReduce, NLP 
 **Other Tools:** REST, gRPC, Wireshark, Postman
 
 ---
@@ -53,26 +53,26 @@ If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
 
 ## 💼 Work Experience
 
-**Senior Platform Engineer** – Schlumberger  
+**Platform Engineer II - D&A Architecture** – Schlumberger  
 *Sep 2024 – Present*  
 - Productionized M.Tech dissertation on AI in data governance  
 - Built enterprise-wide Data Quality & Profiling Framework (Spring Boot)  
 - Enabled RLS/CLS with Cortex & collaborated with Google  
 - Product research for Data Observability tools  
 
-**Platform Engineer II** – Schlumberger  
+**Platform Engineer II - D&A Platform Automation** – Schlumberger  
 *Sep 2023 – Sep 2024*  
 - Led GCP IAM initiatives  
 - Saved \$100K+ via cloud cost optimization  
 - Assisted with Kubernetes setup, Hive upgrades, V3 network migration  
 
-**Platform Engineer I** – Schlumberger  
+**Platform Engineer I - D&A Infrastructure** – Schlumberger  
 *Sep 2022 – Sep 2023*  
 - Cut deployment time from 8 hrs to 10 mins (Terraform + SaltStack)  
 - Automated app deployment across GCP/Azure  
 - Led zero-downtime data migration using Striim  
 
-**Associate Platform Engineer** – Schlumberger  
+**Associate Platform Engineer - D&A Infrastructure** – Schlumberger  
 *Jul 2021 – Sep 2022*  
 - Migrated 200+ users to Azure IAM  
 - Migrated 10TB legacy data (IaaS → PaaS), saving \$250K  
@@ -98,28 +98,49 @@ If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
 
 ## 📚 Academic Projects
 
-### 🧠 AI for Data Governance  
-- Developed an ML pipeline to automate **data classification** using NLP & GCP tools.  
-- Used BERT & sentence embeddings to classify sensitive vs non-sensitive data.  
-- Integrated into enterprise workflows and deployed via Spring Boot.
+### 🔐 AI for Data Governance – Classification & Recommendation System
+Developed a machine learning solution to recommend data classifications and policies. The system leverages metadata, usage patterns, and NLP-based insights to auto-suggest security levels, improving data compliance.
 
-### 📊 Visual ETL Framework  
-- Built a visual drag-drop ETL prototype using Python + Apache NiFi.  
-- Added support for pluggable connectors (Kafka, REST APIs, BigQuery).  
+### 🛡️ NSL-KDD Intrusion Detection using MLlib (PySpark) on Databricks
+- Built ML models on the NSL-KDD dataset using PySpark and MLlib.  
+- Applied preprocessing, standardization, and feature engineering.  
+- Trained multiple classifiers, visualized performance using confusion matrices, and tuned results on test data.
 
-### 🔐 IAM Auto-Audit Tool  
-- Designed a CLI + dashboard tool to scan IAM roles and recommend least privilege.  
-- Implemented using Python, GCP IAM APIs, and Looker dashboard.
+### 🤖 BITsy the Bot – NLP-based Academic Assistant
+- Developed a chatbot to answer academic queries for BITS students using intents and entity extraction.  
+- Hosted on Google Cloud using Flask + Python + DialogFlow/NLTK.
 
-### 📈 Azure VM Cost Optimizer  
-- Created a rules engine in Python to auto-scale Azure VMs based on usage.  
-- Achieved up to **45% monthly savings** in simulated workloads.
+### ☸️ Kubernetes Deployment with Minikube & Blue-Green Rollout
+- Installed and configured Minikube, Docker, and VirtualBox on a local environment.
+- Containerized and deployed an BITsy application to Minikube.
+- Demonstrated full Kubernetes workflow including:
+  - Creating clusters and pods.
+  - Viewing and managing pods/services.
+  - Using `minikube dashboard` to visualize deployments and replica sets.
+- Set up CI/CD for automated deployments.
+- Successfully implemented Blue-Green deployment strategy to enable zero-downtime rollouts.
+
+### 🚀 Distributed File Transfer using Flask & Redis for CDN Simulation
+- Built a Flask-based web application for efficient file upload and download in a distributed system.
+- Used Redis as an in-memory cache to simulate Content Delivery Network (CDN) behavior.
+- Enabled parallel file distribution and access across nodes.
+- Focused on improving file serving performance, reducing latency, and ensuring scalability.
+- Demonstrated the system’s effectiveness in high-throughput scenarios.
+
+### 🦄 Serverless Unicorn Ride App (AWS)
+
+- Built a serverless app for unicorn ride requests with AWS Amplify-hosted frontend.  
+- Managed users via Amazon Cognito.  
+- Created backend with AWS Lambda and exposed it using API Gateway.  
+- Automated resource cleanup after deployment.  
+
+
+### 😂 DadJokes Extension – Browser Fun Tool
+- Built a lightweight web extension to display random dad jokes.  
+- Integrated APIs to fetch fresh jokes on new tab load.
 
 ---
 
 > “Always learning. Always building.”
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srumonke&show_icons=true&theme=dracula)
-
