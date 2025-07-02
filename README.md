@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💼 Professional Summary
+## 🌟 Professional Summary
 
 Certified multi-cloud architect, DevOps enthusiast, and cloud migration & security expert.  
 If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
@@ -96,7 +96,7 @@ If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
 
 ---
 
-## 📚 Academic Projects
+## 📚 Top Academic Projects
 
 ### 🔐 AI for Data Governance – Classification & Recommendation System
 Developed a machine learning solution to recommend data classifications and policies. The system leverages metadata, usage patterns, and NLP-based insights to auto-suggest security levels, improving data compliance.
