@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sruthi Krishnamurthy
 
-📍 India | ☁️ Multi-cloud Architect | 🛠️ Platform Engineer | 🧠 AI x Data Governance  
+📍 India | ☁️ Multi-cloud | 🛠️ Platform Engineer | 🧠 AI x Data Governance  
 📧 [skrishnamurthyja@gmail.com](mailto:skrishnamurthyja@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/sruthi-krishnamurthy-437038174) | [GitHub](https://github.com/srumonke)
 
