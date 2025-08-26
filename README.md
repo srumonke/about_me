@@ -55,7 +55,7 @@ If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
 
 **Platform Engineer II - D&A Architecture** – Schlumberger  
 *Sep 2024 – Present*  
-- Productionized M.Tech dissertation on AI in data governance  
+- AI in data governance  
 - Built enterprise-wide Data Quality & Profiling Framework (Spring Boot)  
 - Enabled RLS/CLS with Cortex & collaborated with Google  
 - Product research for Data Observability tools  
