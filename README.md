@@ -8,7 +8,7 @@
 
 ## 🌟 Professional Summary
 
-Certified multi-cloud architect, DevOps enthusiast, and cloud migration & security expert.  
+Certified multi-cloud platform engineer, DevOps enthusiast, and cloud migration & security expert.  
 If it’s broken, I’ll fix it - if it’s outdated, I’ll modernize it!
 
 ---
