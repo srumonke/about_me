@@ -9,7 +9,7 @@
 ## 🌟 Professional Summary
 
 Certified multi-cloud architect, DevOps enthusiast, and cloud migration & security expert.  
-If it’s broken, I’ll fix it — if it’s outdated, I’ll modernize it!
+If it’s broken, I’ll fix it - if it’s outdated, I’ll modernize it!
 
 ---
 
